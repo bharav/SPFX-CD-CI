@@ -1,0 +1,6 @@
+{
+  "workingDir": "./temp/deploy/",
+  "account": "vivspfxtutorial",
+  "container": "helloworld-webpart",
+  "accessKey": "yWZdwuHRfUfVxa6LYIwFGVAbad0z/2HyDHoXOgU+jZYZFMl/jIUjI2TJ0MxqC67hWFv/YEhpF6x32A/A0E86OQ=="
+}
